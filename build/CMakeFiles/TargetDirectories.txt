@@ -1,0 +1,5 @@
+C:/Users/yodji/Desktop/33_Homework_2/build/CMakeFiles/edit_cache.dir
+C:/Users/yodji/Desktop/33_Homework_2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/yodji/Desktop/33_Homework_2/build/src/CMakeFiles/33_Homework_2.dir
+C:/Users/yodji/Desktop/33_Homework_2/build/src/CMakeFiles/edit_cache.dir
+C:/Users/yodji/Desktop/33_Homework_2/build/src/CMakeFiles/rebuild_cache.dir
